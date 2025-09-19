@@ -1,0 +1,8 @@
+# MacOS finder
+.DS_Store
+
+# Generated PDF files
+*.pdf
+
+# Direnv folder
+.direnv
